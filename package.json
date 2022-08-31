@@ -1,5 +1,5 @@
 {
-  "name": "vdom-serialized-patch",
+  "name": "@tarik02/vdom-serialized-patch",
   "version": "1.0.8",
   "description": "Serialize and apply patches from virtual-dom",
   "main": "index.js",
